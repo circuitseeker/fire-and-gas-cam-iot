@@ -1,6 +1,6 @@
 /**********************************************************************************
  *  TITLE: ESP32CAM Telegram WiFi Fire and Gas Detector with photo capture
- *  Modified by ChatGPT
+ 
  **********************************************************************************/
 
 #include <WiFi.h>
