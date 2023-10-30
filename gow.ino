@@ -266,3 +266,6 @@ void sendPhotoTelegram(){
     Serial.println("Connected to api.telegram.org failed.");
   }
 }
+
+#define ai thinker cam.h
+#include pin 4
